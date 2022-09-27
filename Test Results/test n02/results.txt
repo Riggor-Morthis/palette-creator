@@ -1,0 +1,10 @@
+Test #2 :
+
+Circonstances : {compense} / equilibre / equilibre / luminance basique
+
+But : voir l'influence de l'equation de compensation sur la palette
+	note : le chiffre dans le nom est la variable a dans l'equation de compensation suivante :
+	seuil = (a% + (100-a)% * comp)*seuil
+
+Resultats : un a minimal donne effectivement une palette de plus en plus sombre mais vibrante, ou les couleurs semblent equilibrees, la ou un a maximal se rapprochent de teinte pastelle comme vu au debut
+	on pourrait ainsi introduire 3 modes de couleur : intense, classic, pastel (respectivement a = 10, a = 50, a = 90)

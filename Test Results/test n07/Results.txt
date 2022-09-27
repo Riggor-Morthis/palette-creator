@@ -1,0 +1,8 @@
+Test #7 :
+
+Circonstances : brut / {equilibre, saturation, value} / {equilibre, saturation, value } / luminance basique
+
+But : donne un avantage a l'initialisation a l'une des variables, puis l'affecter plus lourdement lors des ajustements
+
+Resultats : l'initialisation disparait quasi-entierement et on observe tres vite des resultats similaires au test 3
+	on en conclut donc que l'initialisation n'a aucun impact mesurable sur nos resultats finaux

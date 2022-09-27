@@ -1,0 +1,6 @@
+Affecter S et V de maniere identique creer une boucle infinie
+Affecter S et V dans le meme sens creer une boucle infinie
+Affecter S et V dans le meme sens de maniere disproportionnee creer une boucle infinie
+La moyenne compensee se bloque dans une boucle infinie lorsqu'elle atteint une des extremites. Ce probleme peut etre regle en re-generant la couleur
+La moyenne compensee carree se bloque dans une boucle inifine lorsqu'elle atteint une des extremites et la regeneration ne resout pas ce probleme
+La moyenne compensee ne fonctionne plus lorsque le seuil devient compense

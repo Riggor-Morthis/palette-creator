@@ -1,0 +1,8 @@
+Test #9 :
+
+Circonstances : brut / equilibre / equilibre / {luminance basique, luminance carree, greyscale, moyenne compensee}
+
+But : voir comment la palette evolue lorsqu'on change la facon d'evaluer la luminence de nos couleurs sur la palette
+
+Resultats : la luminance carree donne des tons plus intense aux alentours du violet (hue 330) mais ecrase les tons autour du bleu-vert (hue 150), et la luminance greyscale amplifie encore plus cet effet
+	La moyenne compensee donne des teintes ultra claires, bien au dela du pastel et potentiellement dans les teintes neons

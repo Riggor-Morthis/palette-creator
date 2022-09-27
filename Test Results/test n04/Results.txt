@@ -1,0 +1,9 @@
+Test #4
+
+Circonstances : compense / {equilibre, saturation, value} / equilibre / luminance basique
+
+But :  comprendre l'importance d'impacter plus lourdement la saturation ou la value durant les ajustements progressifs, mais en partant d'un seuil compense a 50%
+
+Resultats : relativement similaire aux test 3, bien que moins apparent
+	plus l'impact saturation est superieur a l'impact value et plus on cree de bruit
+	on ne peut cependant rien en tirer d'utile pour le moment, et il vaut donc mieux garder un impact equilibre ou tres legerement privilegiant la value

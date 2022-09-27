@@ -1,0 +1,7 @@
+Test #6 :
+
+Circonstances : compense / equilibre / {equilibre / saturation / value} / luminance basique
+
+But : voir l'impact des valeurs d'initialisation sur la palette finale, cette fois-ci en utilisant un seuil compense a 50%
+
+Resultats : parfaitement semblable au test precedent

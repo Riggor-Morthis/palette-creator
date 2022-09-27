@@ -1,0 +1,9 @@
+Test #10 :
+
+Circonstances : compense / equilibre / equilibre / {luminance basique, luminance carree, greyscale, moyenne compensee}
+
+But : voir comment comment la compensation de seuil impacte l'evaluation de la luminance
+
+Resultats : a noter : greyscale, a cause de ses coefficients particuliers, beneficie d'une compensation unique
+	on observe des resultats similaires au test precedent, meme si ils sont moins marques (la compensation pesant surement plus lourd qu'eux)
+	on peut en plus noter qu'utiliser une autre formule de luminance genere moins de bruit dans le resultat final

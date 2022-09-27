@@ -1,0 +1,9 @@
+Test #5 :
+
+Circonstances : brut / equilibre / {equilibre / saturation / value} / luminance basique
+
+But : voir l'impact des valeurs d'initialisation sur la palette finale
+
+Resultats : autant la saturation que la value semble reduire le bruit present dans la palette
+	contrairement aux deux tests precedents, on remarque que cette fois-ci c'est la saturation qui donne les resultats les plus propres
+	l'effet est cependant minime, et relativement peu utile par consequent

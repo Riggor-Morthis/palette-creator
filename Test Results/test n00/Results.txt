@@ -1,0 +1,9 @@
+Test #0 :
+
+Circonstances : brut / equilibre / equilibre / luminance basique
+
+But : avoir une reference de base pour les experiences futures
+	on fait juste fonctionner le programme de la maniere la plus basique possible et on observe le resultat
+
+Resultats : les tons semblent tres pastels
+	interessants pour avoir plusieurs modes de fonctionnement dans le createur (pastel, vibrant...)

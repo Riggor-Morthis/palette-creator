@@ -1,0 +1,9 @@
+Test #1 :
+
+Circonstances : {brut, compense} / equilibre / equilibre / luminance basique
+
+But : comprendre les effets du seuil compense sur la palette
+	la formule de compensation est basique a 0.5 + 0.5*C
+
+Resultats : la palette compensee apparait plus sombre, mais aussi plus vibrante
+	a priori le meilleur mode de fonctionnement pour notre palette "basique"

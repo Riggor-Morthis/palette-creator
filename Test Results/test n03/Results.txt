@@ -1,0 +1,10 @@
+Test #3
+
+Circonstances : brut / {equilibre, saturation, value} / equilibre / luminance basique
+
+But :  comprendre l'importance d'impacter plus lourdement la saturation ou la value durant les ajustements progressifs
+
+Resultats : surprennament similaires
+	on peut tout de fois noter qu'affecter principalement la value diminue le nombre de couleurs presentes dans l'image finale, la ou affecter la saturation augmente leur nombre
+	je propose donc que plus la saturation est disproportionnelle par rapport a la value, et plus la palette resultante sera affectee par le bruit
+	cela dit, avoir des valeurs equilibres donne un resultat parfaitement adapte
